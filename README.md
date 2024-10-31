@@ -1,4 +1,3 @@
-```markdown
 # 🚛 Projeto de Teste: API Cidade Limpa
 
 Este projeto é um ambiente de teste completo para a API Cidade Limpa, incluindo todos os arquivos necessários para configurar e rodar a aplicação e seus testes automatizados. Este `README.md` fornece instruções sobre como configurar, executar e limpar o ambiente de teste.
@@ -148,4 +147,4 @@ Para qualquer problema ou dúvida, sinta-se à vontade para entrar em contato.
 ### 🎉 Contribuições
 
 Contribuições são bem-vindas! Siga o fluxo de _pull requests_ para sugestões de melhoria.
-```
+
