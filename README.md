@@ -122,6 +122,14 @@ FLYWAY_BASELINE_ON_MIGRATE=true
    - **Cenário de Sucesso**: Validar contrato de cadastro bem-sucedido de usuário (Testes de contrato utilizando JSON Schema)
 ---
 
+## Executando os Testes com Maven
+ Abra o terminal e execute os seguintes comandos:
+ ```bash
+cd C:\CidadeLimpaTestes
+```
+```bash
+mvn clean test
+```
 ---
 
 ## ⚙️ Comandos Úteis
